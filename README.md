@@ -1,2 +1,9 @@
 # Edufy_Support
-A web page for supporting Edufy application
+ようこそ、Edufyアプリの公式サポートページへ。
+
+お問い合わせ
+
+問題が解決しない場合や他の質問がある場合は、以下の方法でサポートチームにご連絡ください。
+
+メール: qhinnovation@gmail.com
+いつもご利用いただきありがとうございます。引き続き快適にご利用いただけるよう努めてまいります。
